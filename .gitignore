@@ -1,0 +1,12 @@
+# Editors
+.idea/
+.vscode/
+
+# Python
+*.egg-info
+__pycache__/
+dist/
+
+# Testing
+.pytest_cache
+.coverage
